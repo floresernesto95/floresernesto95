@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ernesto! <br/><a href="">Software Engineer</a>, <a href="">A.I. Software Developer</a>
+<h1>Hi, I'm Ernesto! <br/><a href="">Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
