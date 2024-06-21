@@ -5,10 +5,11 @@
 
 - <b>Artificial Intelligence</b>
   - [Named Entity Recognition in Texts with SpaCy](https://github.com/floresernesto95/Named-Entity-Recognition-in-Texts-with-SpaCy)
-  - [Movie Reviews Sentiment Analysis](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
+  - [Movie Reviews Sentiment Analysis with NLP](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
+  - [ETL in Python](https://github.com/floresernesto95/ETL-in-Python)
 
 - <b>Programming</b>
-  - [Battleship Game](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
+  - [Battleship Game in Java](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
 
 <!--
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
