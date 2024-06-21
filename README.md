@@ -10,6 +10,8 @@
 
 - <b>Programming</b>
   - [API Development with Entity Framework and Code First Approach](https://github.com/floresernesto95/API-Development-with-Entity-Framework-and-Code-First-Approach/blob/main/README.md)
+  - [Material Withdrawal Order Registration Application in .NET Core](https://github.com/floresernesto95/Material-Withdrawal-Order-Registration-Application)
+  - [Interactive Form with Bootstrap](https://github.com/floresernesto95/Interactive-Form-with-Bootstrap)
   - [Battleship Game in Java](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
   - [Broom of 15 Game in Java](https://github.com/floresernesto95/Broom-of-15-Game-in-Java)
 
