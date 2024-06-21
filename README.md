@@ -9,7 +9,10 @@
   - [ETL in Python](https://github.com/floresernesto95/ETL-in-Python)
 
 - <b>Programming</b>
+  - [API Development with Entity Framework and Code First Approach](https://github.com/floresernesto95/API-Development-with-Entity-Framework-and-Code-First-Approach/blob/main/README.md)
   - [Battleship Game in Java](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
+  - [Broom of 15 Game in Java](https://github.com/floresernesto95/Broom-of-15-Game-in-Java)
+
 
 <!--
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
