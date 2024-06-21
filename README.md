@@ -1,12 +1,14 @@
 <h1>Hi, I'm Ernesto! <br/>
-  <a href="">Software Engineer,</a><a href=""> Full-Stack Developer</a></h1>
+  <a href="">Software Engineer</a><a href="">, A.I. & Full-Stack Specialist</a></h1>
 
-<h2> 💼 Projects:</h2>
+<h2>💼 Projects:</h2>
 
-- <b>asd</b>
-  - [asd](https://github.com)
-- <b>asd</b>
-  - [asd](https://github.com) <b><i>(asd)</b></i>
+- <b>Artificial Intelligence</b>
+  - [Named Entity Recognition in Texts with SpaCy](https://github.com/floresernesto95/Named-Entity-Recognition-in-Texts-with-SpaCy)
+  - [Movie Reviews Sentiment Analysis](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
+
+- <b>Programming</b>
+  - [Battleship Game](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
 
 <h2>📺 Write something</h2>
 
