@@ -1,4 +1,5 @@
-<h1>Hi, I'm Ernesto! <br/><a href="">Software Engineer</a></h1>
+<h1>Hi, I'm Ernesto! <br/>
+  <a href="">Software Engineer,</a></h1><a href=""> Full-Stack Developer</a></h1>
 
 <h2> 💼 Projects:</h2>
 
