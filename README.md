@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ernesto! <br/><a href="">Programmer</a>, <a href="">Cybersecurity Professional</a>, <a href="">YouTuber</a></h1>
+<h1>Hi, I'm Ernesto! <br/><a href="">Software Engineer</a>, <a href="">A.I. Software Developer</a>, <a href="">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
