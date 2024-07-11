@@ -5,6 +5,7 @@
 
 - <b>Artificial Intelligence</b>
   - [GraphRAG with Neo4j and Groq](https://github.com/floresernesto95/GraphRAG-with-Neo4j-and-Groq)
+  - [LLM Inference with Chat History](https://github.com/floresernesto95/LLM-Inference-with-Chat-History)
   - [Named Entity Recognition in Texts with SpaCy](https://github.com/floresernesto95/Named-Entity-Recognition-in-Texts-with-SpaCy)
   - [Movie Reviews Sentiment Analysis with NLP](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
   - [ETL in Python](https://github.com/floresernesto95/ETL-in-Python)
