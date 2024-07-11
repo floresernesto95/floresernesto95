@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ernesto! <br/>
-  <a href="">Software Developer</a><a href="">, A.I. & Full-Stack Specialist</a></h1>
+  <a href="">Software Engineer</a><a href="">, A.I. & Full-Stack Specialist</a></h1>
 
 <h2>💼 Projects:</h2>
 
