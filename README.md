@@ -1,61 +1,73 @@
-<h1>Hi, I'm Ernesto! <br/>
-  <a href="">Software Engineer</a><a href="">, A.I. & Full-Stack Specialist</a></h1>
+# ¡Hola, soy Ernesto Flores! 👋
+## Ingeniero de Software | Especialista en I.A. y Desarrollo Full-Stack
 
-<h2>💼 Projects:</h2>
+[English version](https://github.com/floresernesto95) | [LinkedIn](#) | [Twitter](#) | [Portafolio Web](#)
 
-- <b>Artificial Intelligence</b>
-  - [GraphRAG with Neo4j and Groq](https://github.com/floresernesto95/GraphRAG-with-Neo4j-and-Groq)
-  - [LLM Inference with Chat History](https://github.com/floresernesto95/LLM-Inference-with-Chat-History)
-  - [Named Entity Recognition in Texts with SpaCy](https://github.com/floresernesto95/Named-Entity-Recognition-in-Texts-with-SpaCy)
-  - [Movie Reviews Sentiment Analysis with NLP](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
-  - [ETL in Python](https://github.com/floresernesto95/ETL-in-Python)
+---
 
-- <b>Programming</b>
-  - [API Development with Entity Framework and Code First Approach](https://github.com/floresernesto95/API-Development-with-Entity-Framework-and-Code-First-Approach/blob/main/README.md)
-  - [Material Withdrawal Order Registration Application in .NET Core](https://github.com/floresernesto95/Material-Withdrawal-Order-Registration-Application)
-  - [Interactive Form with Bootstrap](https://github.com/floresernesto95/Interactive-Form-with-Bootstrap)
-  - [Battleship Game in Java](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)
-  - [Broom of 15 Game in Java](https://github.com/floresernesto95/Broom-of-15-Game-in-Java)
+### 🚀 Sobre mí
 
+Soy un apasionado ingeniero de software con experiencia en Inteligencia Artificial y desarrollo Full-Stack. Me encanta enfrentar desafíos complejos y crear soluciones innovadoras que impulsen el progreso tecnológico.
 
-<!--
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+---
 
-<h2>👨‍💻 Software Development Projects:</h2>
+### 💼 Proyectos Destacados
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+#### 🧠 Inteligencia Artificial y Análisis de Datos
 
-<h2>📺 Popular YouTube Videos</h2>
+1. **[GraphRAG con Neo4j y Groq](https://github.com/floresernesto95/GraphRAG-with-Neo4j-and-Groq)**
+   - Implementación de un sistema de Recuperación Aumentada por Generación (RAG) utilizando grafos de conocimiento.
+   - Tecnologías: Neo4j, Groq, Python
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+2. **[Inferencia de LLM con Historial de Chat](https://github.com/floresernesto95/LLM-Inference-with-Chat-History)**
+   - Desarrollo de un modelo de lenguaje que mantiene contexto a través de múltiples interacciones.
+   - Tecnologías: PyTorch, Transformers, FastAPI
 
-<h2> 🤳 Connect with me:</h2>
+3. **[Análisis de Sentimientos de Reseñas de Películas](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)**
+   - Creación de un modelo de NLP para clasificar sentimientos en reseñas de películas.
+   - Tecnologías: NLTK, Scikit-learn, Pandas
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+#### 💻 Desarrollo Web y Aplicaciones
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor 
--->
+1. **[API RESTful con Entity Framework](https://github.com/floresernesto95/API-Development-with-Entity-Framework-and-Code-First-Approach)**
+   - Diseño e implementación de una API robusta utilizando el enfoque Code First.
+   - Tecnologías: .NET Core, Entity Framework, SQL Server
+
+2. **[Aplicación de Gestión de Inventario](https://github.com/floresernesto95/Material-Withdrawal-Order-Registration-Application)**
+   - Sistema completo para el registro y seguimiento de órdenes de retiro de material.
+   - Tecnologías: .NET Core, Angular, SQL Server
+
+3. **[Formulario Interactivo Responsivo](https://github.com/floresernesto95/Interactive-Form-with-Bootstrap)**
+   - Diseño de una interfaz de usuario intuitiva y adaptable para recopilación de datos.
+   - Tecnologías: HTML5, CSS3, Bootstrap, JavaScript
+
+---
+
+### 🛠 Habilidades Técnicas
+
+- **Lenguajes**: Python, C#, Java, JavaScript, HTML/CSS
+- **Frameworks**: .NET Core, Angular, React, Django
+- **Bases de Datos**: SQL Server, MongoDB, Neo4j
+- **IA/ML**: TensorFlow, PyTorch, Scikit-learn, NLTK
+- **Herramientas**: Git, Docker, Azure, AWS
+
+---
+
+### 📚 Educación Continua
+
+- **Certificación en Ingeniería de Machine Learning** - Stanford Online (2023)
+- **Especialización en Desarrollo Full-Stack** - Universidad de Hong Kong (2022)
+
+---
+
+### 📫 ¡Conectemos!
+
+Estoy siempre abierto a colaboraciones interesantes y oportunidades de networking. No dudes en contactarme para discutir proyectos, tecnología o simplemente para charlar sobre las últimas tendencias en el mundo tech.
+
+- **Email**: ernesto.flores@example.com
+- **LinkedIn**: [Ernesto Flores](#)
+- **Twitter**: [@ErnestoFloresDev](#)
+
+---
+
+⭐️ From [floresernesto95](https://github.com/floresernesto95)
