@@ -58,8 +58,8 @@ Ingeniero de Software especializado en Ciencia de Datos e Inteligencia Artificia
 
 ### Formación Académica y Certificaciones
 
-- **Ingeniería en Software** - Universidad Tecnológica Nacional (2022)
 - **Escuela de Data Science e Inteligencia Artificial** - Platzi (2019)
+- **Tecnicatura Universitaria en Programación** - Universidad Tecnológica Nacional (2022)
 
 ---
 
