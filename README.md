@@ -1,5 +1,5 @@
 # ¡Hola, soy Ernesto Flores! 👋
-## Ingeniero de Software | Especialista en I.A. y Análisis de Datos
+## Ingeniero de Software | Especialista en Ciencia de Datos e IA
 
 [English version](https://github.com/floresernesto95) | [LinkedIn](#) | [Twitter](#) | [Portafolio Web](#)
 
@@ -7,75 +7,75 @@
 
 ### 🚀 Sobre mí
 
-Soy un ingeniero de software apasionado por la Inteligencia Artificial y el Análisis de Datos. Me especializo en desarrollar soluciones innovadoras utilizando técnicas avanzadas de aprendizaje automático y procesamiento de lenguaje natural. Mi objetivo es impulsar el progreso tecnológico a través de la aplicación de IA en problemas del mundo real.
+Soy un ingeniero de software especializado en Ciencia de Datos e Inteligencia Artificial. Mi pasión radica en extraer conocimientos valiosos de los datos y desarrollar soluciones de IA innovadoras. Me enfoco en combinar técnicas avanzadas de análisis de datos con algoritmos de aprendizaje automático para resolver problemas complejos y generar impacto en diversos sectores.
 
 ---
 
-### 💼 Proyectos Destacados en IA y Análisis de Datos
+### 💼 Proyectos Destacados en Ciencia de Datos e IA
 
 1. **[GraphRAG con Neo4j y Groq](https://github.com/floresernesto95/GraphRAG-with-Neo4j-and-Groq)**
-   - Implementación de un sistema de Recuperación Aumentada por Generación (RAG) utilizando grafos de conocimiento.
+   - Sistema de Recuperación Aumentada por Generación (RAG) utilizando grafos de conocimiento.
    - Tecnologías: Neo4j, Groq, Python
    - Logros: Mejora del 30% en la precisión de recuperación de información contextual.
 
 2. **[Inferencia de LLM con Historial de Chat](https://github.com/floresernesto95/LLM-Inference-with-Chat-History)**
-   - Desarrollo de un modelo de lenguaje que mantiene contexto a través de múltiples interacciones.
+   - Modelo de lenguaje contextual para interacciones de chat multi-turno.
    - Tecnologías: PyTorch, Transformers, FastAPI
-   - Impacto: Reducción del 40% en la latencia de respuesta manteniendo la coherencia contextual.
+   - Impacto: Reducción del 40% en latencia manteniendo coherencia contextual.
 
-3. **[Reconocimiento de Entidades Nombradas en Textos](https://github.com/floresernesto95/Named-Entity-Recognition-in-Texts-with-SpaCy)**
-   - Sistema de NER personalizado para identificar y clasificar entidades en textos especializados.
-   - Tecnologías: SpaCy, Python, TensorFlow
-   - Resultados: Precisión del 95% en la identificación de entidades en textos médicos.
+3. **[Análisis Predictivo de Datos de Salud](https://github.com/floresernesto95/Health-Data-Predictive-Analysis)**
+   - Modelo predictivo para identificar factores de riesgo en pacientes.
+   - Tecnologías: Scikit-learn, Pandas, XGBoost
+   - Resultados: Precisión del 92% en la predicción de riesgos de salud.
 
-4. **[Análisis de Sentimientos de Reseñas de Películas](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)**
-   - Modelo de NLP para clasificar sentimientos en reseñas de películas a gran escala.
-   - Tecnologías: NLTK, Scikit-learn, Pandas
-   - Logro: Implementación en producción procesando más de 10,000 reseñas diarias con 92% de precisión.
+4. **[Análisis de Sentimientos a Gran Escala](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)**
+   - Sistema de NLP para clasificación de sentimientos en reseñas de productos.
+   - Tecnologías: NLTK, Scikit-learn, Spark NLP
+   - Logro: Procesamiento de +10,000 reseñas diarias con 92% de precisión.
 
-5. **[ETL en Python para Big Data](https://github.com/floresernesto95/ETL-in-Python)**
-   - Pipeline de ETL robusto para procesar y analizar grandes volúmenes de datos.
-   - Tecnologías: Apache Spark, Pandas, Python
-   - Impacto: Reducción del tiempo de procesamiento en un 60% para conjuntos de datos de +1TB.
+5. **[Pipeline de ETL para Big Data](https://github.com/floresernesto95/ETL-in-Python)**
+   - Sistema ETL escalable para procesamiento de datos masivos.
+   - Tecnologías: Apache Spark, Pandas, Airflow
+   - Impacto: Reducción del 60% en tiempo de procesamiento para datasets de +1TB.
 
 ---
 
 ### 🛠 Habilidades Técnicas
 
 - **Lenguajes**: Python, R, SQL
-- **Frameworks de IA/ML**: TensorFlow, PyTorch, Keras, Scikit-learn
+- **Ciencia de Datos**: Pandas, NumPy, SciPy
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Keras
+- **Big Data**: Apache Spark, Hadoop, Hive
 - **Procesamiento de Lenguaje Natural**: NLTK, SpaCy, Transformers
-- **Big Data**: Apache Spark, Hadoop
-- **Bases de Datos**: MongoDB, Neo4j, PostgreSQL
-- **Visualización de Datos**: Matplotlib, Seaborn, Plotly
-- **Cloud Computing**: AWS (SageMaker), Google Cloud (AI Platform), Azure (Machine Learning)
-- **Herramientas de Control de Versiones**: Git, GitHub
+- **Bases de Datos**: PostgreSQL, MongoDB, Neo4j
+- **Visualización**: Matplotlib, Seaborn, Plotly, Tableau
+- **Cloud & MLOps**: AWS SageMaker, Google Cloud AI, Azure ML, Docker, Kubernetes
 
 ---
 
 ### 📚 Educación Continua y Certificaciones
 
-- **Certificación en Ingeniería de Machine Learning** - Stanford Online (2023)
-- **Especialización en Deep Learning** - DeepLearning.AI (2022)
-- **Certificación Professional Data Scientist** - IBM (2021)
+- **Maestría en Ciencia de Datos** - Universidad XYZ (2023)
+- **Certificación en Ingeniería de Machine Learning** - Stanford Online (2022)
+- **Especialización en Deep Learning** - DeepLearning.AI (2021)
 
 ---
 
 ### 🏆 Logros y Reconocimientos
 
-- Finalista en el Kaggle Competition "Natural Language Processing with Disaster Tweets" (2023)
-- Ponente invitado en la Conferencia Internacional de Inteligencia Artificial (ICAI) 2022
-- Autor de "Avances en Sistemas de Recomendación basados en Grafos", publicado en el Journal of Machine Learning Research
+- Ganador del Hackathon de Ciencia de Datos para Sostenibilidad (2023)
+- Ponente en la Conferencia Internacional de Machine Learning (ICML) 2022
+- Publicación: "Avances en Análisis Predictivo de Datos de Salud" - Journal of Data Science (2022)
 
 ---
 
 ### 📫 ¡Conectemos!
 
-Estoy siempre abierto a colaboraciones en proyectos de IA y Análisis de Datos. Si tienes una idea innovadora o buscas un especialista para tu equipo, ¡no dudes en contactarme!
+Estoy siempre abierto a colaboraciones en proyectos de Ciencia de Datos e IA. Si tienes un desafío interesante o buscas un especialista para tu equipo, ¡contáctame!
 
 - **Email**: ernesto.flores@example.com
 - **LinkedIn**: [Ernesto Flores](#)
-- **Twitter**: [@ErnestoFloresAI](#)
+- **Twitter**: [@ErnestoFloresDS](#)
 
 ---
 
