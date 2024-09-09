@@ -61,8 +61,8 @@ Ingeniero de Software especializado en Ciencia de Datos e Inteligencia Artificia
 Abierto a colaboraciones en proyectos de Ciencia de Datos e IA. Para consultas profesionales o propuestas de colaboración, por favor contactar a través de:
 
 - Correo Electrónico: floresernesto1995@gmail.com
-- LinkedIn: [Ernesto Flores](https://www.linkedin.com/in/ernesto-j-h-flores-5b4219162/)
-- Kaggle: [Perfil de Kaggle](https://www.kaggle.com/ernestoflores95/code)
+- LinkedIn: [www.linkedin.com/in/ernesto-j-h-flores](https://www.linkedin.com/in/ernesto-j-h-flores-5b4219162/
+- Kaggle: [https://www.kaggle.com/ernestoflores95](https://www.kaggle.com/ernestoflores95/code)
 
 ---
 
