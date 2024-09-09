@@ -62,7 +62,7 @@ Abierto a colaboraciones en proyectos de Ciencia de Datos e IA. Para consultas p
 
 - Correo Electrónico: floresernesto1995@gmail.com
 - LinkedIn: [www.linkedin.com/in/ernesto-j-h-flores](https://www.linkedin.com/in/ernesto-j-h-flores-5b4219162/)
-- Kaggle: [https://www.kaggle.com/ernestoflores95](https://www.kaggle.com/ernestoflores95/code)
+- Kaggle: [www.kaggle.com/ernestoflores95](https://www.kaggle.com/ernestoflores95/code)
 
 ---
 
