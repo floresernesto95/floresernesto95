@@ -56,18 +56,11 @@ Ingeniero de Software especializado en Ciencia de Datos e Inteligencia Artificia
 
 ---
 
-### Formación Académica y Certificaciones
-
-- **Escuela de Data Science e Inteligencia Artificial** - Platzi (2019)
-- **Tecnicatura Universitaria en Programación** - Universidad Tecnológica Nacional (2022)
-
----
-
-### 📫 Contacto Profesional
+### 🌐 Contacto
 
 Abierto a colaboraciones en proyectos de Ciencia de Datos e IA. Para consultas profesionales o propuestas de colaboración, por favor contactar a través de:
 
-- Correo Electrónico: ernesto.flores@example.com
+- Correo Electrónico: floresernesto1995@gmail.com
 - LinkedIn: [Ernesto Flores](https://www.linkedin.com/in/ernesto-j-h-flores-5b4219162/)
 - Kaggle: [Perfil de Kaggle](https://www.kaggle.com/ernestoflores95/code)
 
