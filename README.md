@@ -1,7 +1,7 @@
 # Ernesto Flores
 ## 👨‍💻 Ingeniero de Software | Especialista en Ciencia de Datos e IA
 
-[English version](https://github.com/floresernesto95) | [LinkedIn](#) | [Twitter](#) | [Kaggle](#)
+[LinkedIn](https://www.linkedin.com/in/ernesto-j-h-flores-5b4219162/) | [English version](https://github.com/floresernesto95) | [Twitter](#) | [Kaggle](https://www.kaggle.com/ernestoflores95/code)
 
 ---
 
