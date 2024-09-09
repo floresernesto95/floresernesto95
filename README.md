@@ -53,7 +53,7 @@ Ingeniero de software especializado en Ciencia de Datos e Inteligencia Artificia
 
 ### Formación Académica y Certificaciones
 
-- **Maestría en Ciencia de Datos** - Universidad XYZ (2023)
+- **Maestría en Ciencia de Datos** - Platzi (2019)
 - **Certificación en Ingeniería de Machine Learning** - Stanford Online (2022)
 - **Especialización en Deep Learning** - DeepLearning.AI (2021)
 
@@ -72,10 +72,9 @@ Ingeniero de software especializado en Ciencia de Datos e Inteligencia Artificia
 Abierto a colaboraciones en proyectos de Ciencia de Datos e IA. Para consultas profesionales o propuestas de colaboración, por favor contactar a través de:
 
 - Correo Electrónico: ernesto.flores@example.com
-- LinkedIn: [Ernesto Flores](#)
-- Twitter: [@ErnestoFloresDS](#)
-- Kaggle: [Perfil de Kaggle](#)
+- LinkedIn: [Ernesto Flores](https://www.linkedin.com/in/ernesto-j-h-flores-5b4219162/)
+- Kaggle: [Perfil de Kaggle](https://www.kaggle.com/ernestoflores95/code)
 
 ---
 
-© 2024 Ernesto Flores | [floresernesto95](https://github.com/floresernesto95)
+© 2024 Ernesto J. H. Flores | [floresernesto95](https://github.com/floresernesto95)
