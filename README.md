@@ -43,7 +43,7 @@ Ingeniero de Software especializado en Ciencia de Datos e Inteligencia Artificia
 
 ---
 
-### ✔️ Competencias Técnicas
+### 💻 Competencias Técnicas
 
 - **Lenguajes de Programación**: Python, R, SQL
 - **Herramientas de Ciencia de Datos**: Pandas, NumPy, SciPy
