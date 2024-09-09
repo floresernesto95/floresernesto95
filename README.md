@@ -1,11 +1,11 @@
 # Ernesto Flores
-## Ingeniero de Software | Especialista en Ciencia de Datos e IA
+## 👨‍💻 Ingeniero de Software | Especialista en Ciencia de Datos e IA
 
-[English version](https://github.com/floresernesto95) | [LinkedIn](#) | [Twitter](#) | [Portafolio Web](#)
+[English version](https://github.com/floresernesto95) | [LinkedIn](#) | [Twitter](#) | [Kaggle](#)
 
 ---
 
-### Perfil Profesional
+### 🚀 Perfil Profesional
 
 Ingeniero de software especializado en Ciencia de Datos e Inteligencia Artificial con amplia experiencia en el desarrollo de soluciones innovadoras. Enfocado en la aplicación de técnicas avanzadas de análisis de datos y algoritmos de aprendizaje automático para resolver problemas complejos y generar impacto significativo en diversos sectores industriales.
 
@@ -40,7 +40,7 @@ Ingeniero de software especializado en Ciencia de Datos e Inteligencia Artificia
 
 ---
 
-### Competencias Técnicas
+### 💻 Competencias Técnicas
 
 - **Lenguajes de Programación**: Python, R, SQL
 - **Herramientas de Ciencia de Datos**: Pandas, NumPy, SciPy
@@ -69,13 +69,14 @@ Ingeniero de software especializado en Ciencia de Datos e Inteligencia Artificia
 
 ---
 
-### Contacto Profesional
+### 📫 Contacto Profesional
 
 Abierto a colaboraciones en proyectos de Ciencia de Datos e IA. Para consultas profesionales o propuestas de colaboración, por favor contactar a través de:
 
 - Correo Electrónico: ernesto.flores@example.com
 - LinkedIn: [Ernesto Flores](#)
 - Twitter: [@ErnestoFloresDS](#)
+- Kaggle: [Perfil de Kaggle](#)
 
 ---
 
