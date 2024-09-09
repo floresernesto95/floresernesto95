@@ -58,17 +58,8 @@ Ingeniero de Software especializado en Ciencia de Datos e Inteligencia Artificia
 
 ### Formación Académica y Certificaciones
 
-- **Maestría en Ciencia de Datos** - Platzi (2019)
-- **Certificación en Ingeniería de Machine Learning** - Stanford Online (2022)
-- **Especialización en Deep Learning** - DeepLearning.AI (2021)
-
----
-
-### Logros Profesionales y Reconocimientos
-
-- Primer lugar en el Hackathon de Ciencia de Datos para Sostenibilidad (2023)
-- Ponente invitado en la Conferencia Internacional de Machine Learning (ICML) 2022
-- Autor principal de "Avances en Análisis Predictivo de Datos de Salud" - Journal of Data Science (2022)
+- **Ingeniería en Software** - Universidad Tecnológica Nacional (2022)
+- **Escuela de Data Science e Inteligencia Artificial** - Platzi (2019)
 
 ---
 
