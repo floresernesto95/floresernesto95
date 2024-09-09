@@ -5,13 +5,13 @@
 
 ---
 
-### 🚀 Perfil Profesional
+### Perfil Profesional
 
 Ingeniero de software especializado en Ciencia de Datos e Inteligencia Artificial con amplia experiencia en el desarrollo de soluciones innovadoras. Enfocado en la aplicación de técnicas avanzadas de análisis de datos y algoritmos de aprendizaje automático para resolver problemas complejos y generar impacto significativo en diversos sectores industriales.
 
 ---
 
-### Proyectos Destacados en Ciencia de Datos e IA
+### 💼 Proyectos Destacados en Ciencia de Datos e IA
 
 1. **[GraphRAG con Neo4j y Groq](https://github.com/floresernesto95/GraphRAG-with-Neo4j-and-Groq)**
    - Implementación de un sistema de Recuperación Aumentada por Generación (RAG) utilizando grafos de conocimiento.
