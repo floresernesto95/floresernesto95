@@ -5,7 +5,7 @@
 
 ---
 
-### Perfil Profesional
+### 👤 Perfil Profesional
 
 Ingeniero de software especializado en Ciencia de Datos e Inteligencia Artificial con amplia experiencia en el desarrollo de soluciones innovadoras. Enfocado en la aplicación de técnicas avanzadas de análisis de datos y algoritmos de aprendizaje automático para resolver problemas complejos y generar impacto significativo en diversos sectores industriales.
 
