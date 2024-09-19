@@ -1,8 +1,6 @@
 # Ernesto J.H. Flores
 ## 🏛️ Ingeniero de Software de IA & Ciencia de Datos
 
-[English version](https://github.com/floresernesto95)
-
 ---
 
 Ingeniero de Software especializado en Ciencia de Datos e Inteligencia Artificial con amplia experiencia en el desarrollo de soluciones innovadoras. Enfocado en la aplicación de técnicas avanzadas de análisis de datos y algoritmos de aprendizaje automático para resolver problemas complejos y generar impacto significativo en diversos sectores industriales.
