@@ -1,5 +1,5 @@
 # Ernesto J.H. Flores
-## 🏛️ Ingeniero de Software | Especialista en Ciencia de Datos & I.A.
+## 🏛️ Ingeniero de Software de IA & Ciencia de Datos
 
 [English version](https://github.com/floresernesto95)
 
