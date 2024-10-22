@@ -9,24 +9,24 @@ Ingeniero de Software especializado en Ciencia de Datos e Inteligencia Artificia
 
 ### 💼 Proyectos Destacados en Ciencia de Datos e IA
 
-- **[Bot de WhatsApp con RAG y API de OpenAI](https://github.com/floresernesto95/Bot-de-WhatsApp-con-RAG-y-API-de-OpenAI)**
+- **[Bot de WhatsApp con RAG y OpenAI API](https://github.com/floresernesto95/Bot-de-WhatsApp-con-RAG-y-API-de-OpenAI)**
 
    - Desarrollo de un chatbot inteligente para WhatsApp utilizando RAG y modelos de lenguaje de OpenAI.
    - Tecnologías: WhatsApp API, OpenAI API, RAG, Python.
    - Características: Respuestas contextuales precisas, integración de conocimientos específicos y generales.
    - Impacto: Mejora significativa en la calidad y relevancia de las respuestas del chatbot en comparación con sistemas tradicionales.
  
+- **[RAG con Neo4j y Groq](https://github.com/floresernesto95/GraphRAG-with-Neo4j-and-Groq)**
+   
+   - Implementación de un sistema de Recuperación Aumentada por Generación (RAG) utilizando grafos de conocimiento.
+   - Tecnologías: Neo4j, Groq, Python.
+   - Resultados: Mejora del 30% en la precisión de recuperación de información contextual.
+ 
 - **[Inferencia de LLM con Historial de Chat](https://github.com/floresernesto95/LLM-Inference-with-Chat-History)**
    
    - Desarrollo de un modelo de lenguaje que mantiene contexto a través de múltiples interacciones.
    - Tecnologías: PyTorch, Transformers.
    - Impacto: Reducción del 40% en la latencia de respuesta manteniendo la coherencia contextual.
-
-- **[GraphRAG con Neo4j y Groq](https://github.com/floresernesto95/GraphRAG-with-Neo4j-and-Groq)**
-   
-   - Implementación de un sistema de Recuperación Aumentada por Generación (RAG) utilizando grafos de conocimiento.
-   - Tecnologías: Neo4j, Groq, Python.
-   - Resultados: Mejora del 30% en la precisión de recuperación de información contextual.
  
 - **[Sistema de Recomendación de Películas](https://github.com/floresernesto95/Sistema-de-Recomendacion-de-Peliculas)**
 
