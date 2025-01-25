@@ -3,7 +3,7 @@
 
 ---
 
-Ingeniero de Software especializado en Ciencia de Datos e Inteligencia Artificial con amplia experiencia en el desarrollo de soluciones innovadoras. Combinando desarrollo de software robusto con análisis de datos y modelos de IA para resolver problemas complejos y generar impacto significativo en diversos sectores industriales.
+Ingeniero de Software y Científico de Datos especializado en Inteligencia Artificial. Me apasiona desarrollar soluciones tecnológicas innovadoras, combinando desarrollo de software robusto con análisis de datos y modelos de IA para resolver problemas complejos. Mi enfoque integra las mejores prácticas de ingeniería con técnicas avanzadas de machine learning para crear productos tecnológicos de alto impacto.
 
 ---
 
