@@ -9,12 +9,13 @@ Ingeniero de Software y Científico de Datos especializado en Inteligencia Artif
 
 ### 💼 Proyectos Destacados en Ciencia de Datos e IA
 
-- **[Bot de WhatsApp para Asistente de Ventas](https://github.com/floresernesto95/Bot-de-WhatsApp)** ¡Pruébalo aquí! [+54 9 3513 98-2314](https://wa.me/5493513982314?text=Hola!)
+- **[Bot de WhatsApp para Asistente de Ventas](https://github.com/floresernesto95/Bot-de-WhatsApp)** 
 
    - Desarrollo de un chatbot inteligente para WhatsApp utilizando Django y la API de OpenAI.
    - Tecnologías: Django, WhatsApp Cloud API, OpenAI API, PostgreSQL, Railway.
    - Características: Manejo de conversaciones contextuales, perfil de usuario, sistema de respuesta optimizado.
    - Impacto: Automatización efectiva de consultas de ventas con respuestas personalizadas y contextualmente relevantes.
+   - ¡Interactúa con el asistente! Envía un mensaje a [+54 9 3513 98-2314](https://wa.me/5493513982314?text=Hola!)
 
 - **[Bot de WhatsApp con RAG y API de OpenAI](https://github.com/floresernesto95/Bot-de-WhatsApp-con-RAG-y-API-de-OpenAI)**
 
