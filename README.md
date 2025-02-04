@@ -7,7 +7,7 @@ Ingeniero de Software y Científico de Datos especializado en Inteligencia Artif
 
 ---
 
-### 💼 Proyectos Destacados
+### 💼 Proyectos Destacados en Desarrollo Web, Ciencia de Datos e IA
 
 - **[Bot de WhatsApp con API de OpenAI](https://github.com/floresernesto95/Bot-de-WhatsApp)**<br>
   **[¡Pruebalo aquí!](https://wa.me/5493513982314?text=Hola!)** 
