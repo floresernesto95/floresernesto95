@@ -10,7 +10,7 @@ Ingeniero de Software y Científico de Datos especializado en Inteligencia Artif
 ### 💼 Proyectos Destacados en Desarrollo Web, Ciencia de Datos e IA
 
 - **[Bot de WhatsApp con API de OpenAI](https://github.com/floresernesto95/Bot-de-WhatsApp)**<br>
-  **[Visitar!](https://wa.me/5493513982314?text=Hola!)** 
+  **[Link](https://wa.me/5493513982314?text=Hola!)** 
 
    - Desarrollo de un chatbot inteligente para WhatsApp utilizando Django y la API de OpenAI.
    - Tecnologías: Django, WhatsApp Cloud API, OpenAI API, PostgreSQL, Railway.
@@ -18,7 +18,7 @@ Ingeniero de Software y Científico de Datos especializado en Inteligencia Artif
    - Impacto: Automatización efectiva de consultas de ventas con respuestas personalizadas y contextualmente relevantes.
 
 - **[Sistema de Gestión de Películas con React](https://github.com/floresernesto95/movie-catalog)**<br>
-  **[Visitar!](https://catalogopeliculas.vercel.app/)**
+  **[Link](https://catalogopeliculas.vercel.app/)**
 
    - Desarrollo de una aplicación web moderna para exploración y gestión de películas con integración de TMDB API.
    - Tecnologías: React 18, React Router, Context API, Vite, REST API.
