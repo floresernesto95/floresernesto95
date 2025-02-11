@@ -1,5 +1,5 @@
 # Ernesto J. H. Flores
-## 🏛️ Ingeniero de Software y Científico de Datos con enfoque en IA
+### 🏛️ Ingeniero de Software y Científico de Datos con enfoque en IA
 
 ---
 
@@ -7,7 +7,7 @@ Ingeniero de Software y Científico de Datos especializado en Inteligencia Artif
 
 ---
 
-## 💼 Proyectos Destacados en Desarrollo Web, Ciencia de Datos e IA
+### 💼 Proyectos Destacados en Desarrollo Web, Ciencia de Datos e IA
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Bot de WhatsApp con API de OpenAI]()**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/Bot-de-WhatsApp)** ▪️ **[Demo](https://wa.me/5493513982314?text=Hola!)**
