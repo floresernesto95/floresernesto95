@@ -9,60 +9,60 @@ Ingeniero de Software y Científico de Datos especializado en Inteligencia Artif
 
 ### 💼 Proyectos Destacados en Desarrollo Web, Ciencia de Datos e IA
 
-  **[Bot de WhatsApp con API de OpenAI]()**<br>
-  **[Repositorio](https://github.com/floresernesto95/Bot-de-WhatsApp)** ▪️ **[Demo](https://wa.me/5493513982314?text=Hola!)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Bot de WhatsApp con API de OpenAI]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/Bot-de-WhatsApp)** ▪️ **[Demo](https://wa.me/5493513982314?text=Hola!)**
    - Desarrollo de un chatbot inteligente para WhatsApp utilizando Django y la API de OpenAI.
    - Tecnologías: Django, WhatsApp Cloud API, OpenAI API, PostgreSQL, Railway.
    - Características: Manejo de conversaciones contextuales, perfil de usuario, sistema de respuesta optimizado.
    - Impacto: Automatización efectiva de consultas de ventas con respuestas personalizadas y contextualmente relevantes.
 
-  **[Sistema de Gestión de Películas con React]()**<br>
-  **[Repositorio](https://github.com/floresernesto95/movie-catalog)** ▪️ **[Demo](https://catalogopeliculas.vercel.app/)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Sistema de Gestión de Películas con React]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/movie-catalog)** ▪️ **[Demo](https://catalogopeliculas.vercel.app/)**
    - Desarrollo de una aplicación web moderna para exploración y gestión de películas con integración de TMDB API.
    - Tecnologías: React 18, React Router, Context API, Vite, REST API.
    - Características: Exploración intuitiva, búsqueda en tiempo real, sistema de favoritos con persistencia local.
    - Impacto: Demostración de habilidades en desarrollo frontend moderno, arquitectura limpia y optimización de rendimiento.
 
-  **[Bot de WhatsApp con RAG y API de OpenAI]()**<br>
-  **[Repositorio](https://github.com/floresernesto95/Bot-de-WhatsApp-con-RAG-y-API-de-OpenAI)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Bot de WhatsApp con RAG y API de OpenAI]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/Bot-de-WhatsApp-con-RAG-y-API-de-OpenAI)**
    - Desarrollo de un chatbot inteligente para WhatsApp utilizando RAG y modelos de lenguaje de OpenAI.
    - Tecnologías: WhatsApp API, OpenAI API, RAG, Python.
    - Características: Respuestas contextuales precisas, integración de conocimientos específicos y generales.
    - Impacto: Mejora significativa en la calidad y relevancia de las respuestas del chatbot en comparación con sistemas tradicionales.
  
-  **[RAG con Neo4j y Groq]()**<br>
-  **[Repositorio](https://github.com/floresernesto95/GraphRAG-with-Neo4j-and-Groq)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[RAG con Neo4j y Groq]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/GraphRAG-with-Neo4j-and-Groq)**
    - Implementación de un sistema de Recuperación Aumentada por Generación (RAG) utilizando grafos de conocimiento.
    - Tecnologías: Neo4j, Groq, Python.
    - Resultados: Mejora del 30% en la precisión de recuperación de información contextual.
  
-  **[Inferencia de LLM con Historial de Chat]()**<br>
-  **[Repositorio](https://github.com/floresernesto95/LLM-Inference-with-Chat-History)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Inferencia de LLM con Historial de Chat]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/LLM-Inference-with-Chat-History)**
    - Desarrollo de un modelo de lenguaje que mantiene contexto a través de múltiples interacciones.
    - Tecnologías: PyTorch, Transformers.
    - Impacto: Reducción del 40% en la latencia de respuesta manteniendo la coherencia contextual.
  
-  **[Sistema de Recomendación de Películas]()**<br>
-  **[Repositorio](https://github.com/floresernesto95/Sistema-de-Recomendacion-de-Peliculas)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Sistema de Recomendación de Películas]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/Sistema-de-Recomendacion-de-Peliculas)**
    - Desarrollo de un sistema avanzado de recomendación de películas utilizando técnicas de análisis de datos y NLP.
    - Tecnologías: Python, Pandas, NumPy, Scikit-learn, Streamlit, TMDB API.
    - Características: Análisis de más de 4,800 películas, procesamiento de texto con TF-IDF, algoritmo de similitud del coseno, interfaz de usuario interactiva.
    - Impacto: Demostración de habilidades avanzadas en ciencia de datos y desarrollo web, con aplicaciones potenciales en plataformas de streaming y análisis de tendencias en la industria del entretenimiento.
 
-  **[Análisis Predictivo de Datos de Salud]()**<br>
-  **[Repositorio](https://github.com/floresernesto95/Health-Data-Predictive-Analysis)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Análisis Predictivo de Datos de Salud]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/Health-Data-Predictive-Analysis)**
    - Creación de un modelo predictivo para identificar factores de riesgo en pacientes.
    - Tecnologías: Scikit-learn, Pandas, XGBoost.
    - Resultados: Precisión del 92% en la predicción de riesgos de salud.
 
-  **[Análisis de Sentimientos a Gran Escala]()**<br>
-  **[Repositorio](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Análisis de Sentimientos a Gran Escala]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/Movie-Reviews-Sentiment-Analysis-with-NLP)**
    - Implementación de un sistema de NLP para clasificación de sentimientos en reseñas de productos.
    - Tecnologías: NLTK, Scikit-learn, Spark NLP.
    - Logro: Procesamiento de más de 10,000 reseñas diarias con 92% de precisión.
 
-  **[Pipeline de ETL para Big Data]()**<br>
-  **[Repositorio](https://github.com/floresernesto95/ETL-in-Python)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Pipeline de ETL para Big Data]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/ETL-in-Python)**
    - Desarrollo de un sistema ETL escalable para procesamiento de datos masivos.
    - Tecnologías: Apache Spark, Pandas, Airflow.
    - Impacto: Reducción del 60% en tiempo de procesamiento para conjuntos de datos de más de 1TB.
