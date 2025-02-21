@@ -23,6 +23,13 @@ Ingeniero de Software y Científico de Datos especializado en Inteligencia Artif
    - Características: Exploración intuitiva, búsqueda en tiempo real, sistema de favoritos con persistencia local.
    - Impacto: Demostración de habilidades en desarrollo frontend moderno, arquitectura limpia y optimización de rendimiento.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Galería Dinámica de Imágenes con Next.js]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/Galeria-Dinamica-de-Imagenes-con-Next.js)** ▪️ **[Demo](https://fotogaleria.vercel.app/)**
+   - Desarrollo de una aplicación web moderna utilizando Next.js 14, React 19 y TypeScript con múltiples estrategias de renderizado.
+   - Tecnologías: Next.js 14, React 19, TypeScript, Bootstrap 5, SASS, API de Unsplash.
+   - Características: SSR, SSG, ISR, CSR, optimización de imágenes, sistema de caché inteligente, diseño responsivo.
+   - Impacto: Reducción del 60% en tiempo de carga inicial, puntuación 95+ en Lighthouse para Performance y Accessibility.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Bot de WhatsApp con RAG y API de OpenAI]()**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/Bot-de-WhatsApp-con-RAG-y-API-de-OpenAI)**
    - Desarrollo de un chatbot inteligente para WhatsApp utilizando RAG y modelos de lenguaje de OpenAI.
