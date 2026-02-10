@@ -4,14 +4,11 @@
 
 ---
 
-### 💼 Proyectos Destacados en Desarrollo Web, Ciencia de Datos e IA
+### 💼 Proyectos Destacados en ...
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Bot de WhatsApp con API de OpenAI]()**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/Bot-de-WhatsApp)** ▪️ **[Demo](https://wa.me/5493513982314?text=Hola!)**
-   - Desarrollo de un chatbot inteligente para WhatsApp utilizando Django y la API de OpenAI.
-   - Tecnologías: Django, WhatsApp Cloud API, OpenAI API, PostgreSQL, Railway.
-   - Características: Manejo de conversaciones contextuales, perfil de usuario, sistema de respuesta optimizado.
-   - Impacto: Automatización efectiva de consultas de ventas con respuestas personalizadas y contextualmente relevantes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Proyecto 1]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://)** ▪️ **[Demo](https://)**
+   - ...
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Sistema de Gestión de Películas con React]()**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/movie-catalog)** ▪️ **[Demo](https://catalogopeliculas.vercel.app/)**
