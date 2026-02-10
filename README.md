@@ -1,4 +1,3 @@
-
 # Javier H. E. Flores
 ### 🏛️ Ingeniero en Sistemas de Información
 
@@ -8,18 +7,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[TikTok Video Generator]()**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio]()** ▪️ **[Demo]()**
-   - Orquestación autónoma: Pipeline en Python que genera contenido audiovisual viral desde cero. Integra Gemini 2.5 (Guiones), Edge-TTS (Voz Neuronal) y Pexels API (Video Assets).
+   - Orquestación autónoma: Pipeline en Python que genera contenido audiovisual viral desde cero. Integra Gemini 2.5 (guiones), Edge-TTS (voz neuronal) y Pexels API (video assets).
    - Procesamiento multimedia: Automatización completa de edición, corte, mezcla de audio y renderizado usando FFmpeg programático (sin intervención humana).
-   - Tecnologías: Python, AsyncIO, REST APIs, Linux/Ubuntu, Generative AI.
+   - Tecnologías: Python, AsyncIO, REST APIs, Linux, Generative AI.
 
 ---
 
 ### 🖥️ Competencias Técnicas
 
-- **Lenguajes:** Python, SQL, Bash Scripting.
-- **Automatización & ETL:** Selenium, Pandas, AsyncIO, Requests.
-- **Generative AI & Media:** Google Gemini API, FFmpeg Automation, Edge-TTS.
-- **Herramientas:** Git, Linux, Docker.
+- Lenguajes: Python, SQL, Bash scripting.
+- Automatización & ETL: Selenium, Pandas, AsyncIO, Requests.
+- Generative AI & Media: Google Gemini API, FFmpeg automation, Edge-TTS.
+- Herramientas: Git, Linux, Docker.
 
 ---
 
