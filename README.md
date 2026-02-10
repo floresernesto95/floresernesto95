@@ -16,7 +16,10 @@
 
 ### 🖥️ Competencias Técnicas
 
-- ...
+- **Lenguajes:** Python (Avanzado), SQL, Bash Scripting.
+- **Automatización & ETL:** Selenium, Pandas, AsyncIO, Requests.
+- **Generative AI & Media:** Google Gemini API, FFmpeg Automation, Edge-TTS.
+- **Herramientas:** Git, Linux (Ubuntu), Docker.
 
 ---
 
