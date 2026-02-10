@@ -4,10 +4,6 @@
 
 ---
 
-Ingeniero de Software y Científico de Datos especializado en Inteligencia Artificial. Me apasiona desarrollar soluciones tecnológicas innovadoras, combinando desarrollo de software robusto con análisis de datos y modelos de IA para resolver problemas complejos.
-
----
-
 ### 💼 Proyectos Destacados en Desarrollo Web, Ciencia de Datos e IA
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Bot de WhatsApp con API de OpenAI]()**<br>
