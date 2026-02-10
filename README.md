@@ -1,6 +1,6 @@
 
-# Ernesto J. H. Flores
-### 🏛️ Ingeniero de Software y Científico de Datos con enfoque en IA
+# Javier H. E. Flores
+### 🏛️ Ingeniero en Sistemas de Información
 
 ---
 
