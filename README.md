@@ -1,30 +1,30 @@
 # Javier H. E. Flores
-### 🏛️ Ingeniero en Sistemas de Información
+### 🏛️ Software Engineer
 
 ---
 
-### 💼 Proyectos Destacados en Automatización & AI
+### 💼 Featured projects in Automation & AI
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[TikTok Video Generator]()**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repositorio](https://github.com/floresernesto95/TikTok-Video-Generator)** ▪️ **[Demo]()**
-   - Orquestación autónoma: Pipeline en Python que genera contenido audiovisual viral desde cero. Integra Gemini 2.5 (guiones), Edge-TTS (voz neuronal) y Pexels API (video assets).
-   - Procesamiento multimedia: Automatización completa de edición, corte, mezcla de audio y renderizado usando FFmpeg programático (sin intervención humana).
-   - Tecnologías: Python, AsyncIO, REST APIs, Linux, Generative AI.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repository](https://github.com/floresernesto95/TikTok-Video-Generator)** ▪️ **[Demo]()**
+   - Autonomous orchestration: Python pipeline that generates viral audiovisual content from scratch. Integrates Gemini 2.5 (scripts), Edge-TTS (neural voice) and Pexels API (video assets).
+   - Multimedia processing: Complete automation of editing, cutting, audio mixing and rendering using programmatic FFmpeg (without human intervention).
+   - Technologies: Python, AsyncIO, REST APIs, Linux, Generative AI.
 
 ---
 
-### 🖥️ Competencias Técnicas
+### 🖥️ Technical Skills
 
-- Lenguajes: Python, SQL, Bash scripting.
-- Automatización & ETL: Selenium, Pandas, AsyncIO, Requests.
+- Languages: Python, SQL, Bash scripting.
+- Automation & ETL: Selenium, Pandas, AsyncIO, Requests.
 - Generative AI & Media: Google Gemini API, FFmpeg automation, Edge-TTS.
-- Herramientas: Git, Linux, Docker.
+- Tools: Git, Linux, Docker.
 
 ---
 
-### 🌐 Contacto
+### 🌐 Contact
 
-- Correo Electrónico: floresernesto1995@gmail.com
+- Email: floresernesto1995@gmail.com
 
 ---
 
