@@ -11,6 +11,12 @@
    - Multimedia processing: Complete automation of editing, cutting, audio mixing and rendering using programmatic FFmpeg (without human intervention).
    - Technologies: Python, AsyncIO, REST APIs, Linux, Generative AI.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Book Generator]()**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Repository](https://github.com/floresernesto95/book-generator)** ▪️ **[Demo]()**
+   - Content generation pipeline: Python-based system that autonomously creates complete books using the Gemini API, orchestrating everything from dynamic titles and structured outlines to full-length chapters.
+   - Quality control & assembly: Implements automated word-count validation with retry logic and seamlessly compiles the generated markdown sections into a final EPUB format using Pandoc.
+   - Technologies: Python, Google Gemini API, Pandoc, JSON, Linux.
+
 ---
 
 ### 🖥️ Technical Skills
